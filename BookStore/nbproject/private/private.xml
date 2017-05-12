@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/Dao/BookDao.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/WEB-INF/web.xml</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/WEB-INF/dataSource.properties</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/Entity/Book/Book.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/WebService/IWebService.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/Manager/Book_Affair.jsp</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/Chatting_Room.jsp</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/WebService/webservice.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/index.jsp</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/RestWebService/RestWebService.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/Service/BookService.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/WEB-INF/User/User_Login.jsp</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/WEB-INF/BookStore/Book_Search.jsp</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/Action/BookAction.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/RestWebService/IRestWebService.java</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/struts.xml</file>
+            <file>file:/Users/lycronaldo/Desktop/BookStore/src/java/WebApp/Action/UserAction.java</file>
+        </group>
+    </open-files>
+</project-private>

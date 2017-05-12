@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.springframework.org/schema/aop/spring-aop-4.0.xsd" uri="www.springframework.org/schema/aop/spring-aop-4.0.xsd"/>
+    <system systemId="http://www.springframework.org/schema/tx/spring-tx-4.0.xsd" uri="www.springframework.org/schema/tx/spring-tx-4.0.xsd"/>
+    <system systemId="http://www.springframework.org/schema/context" uri="www.springframework.org/schema/context/index"/>
+    <system systemId="http://www.springframework.org/schema/context/spring-context-4.0.xsd" uri="www.springframework.org/schema/context/spring-context-4.0.xsd"/>
+    <system systemId="http://www.springframework.org/schema/beans/spring-beans-4.0.xsd" uri="www.springframework.org/schema/beans/spring-beans-4.0.xsd"/>
+    <system systemId="http://www.springframework.org/schema/tool/spring-tool-4.0.xsd" uri="www.springframework.org/schema/tool/spring-tool-4.0.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas/jaxws.xsd" uri="cxf.apache.org/schemas/jaxws.xsd"/>
+    <system systemId="http://www.springframework.org/schema/tx" uri="www.springframework.org/schema/tx/index"/>
+    <system systemId="http://www.springframework.org/schema/beans" uri="www.springframework.org/schema/beans/index"/>
+    <system systemId="http://www.springframework.org/schema/aop" uri="www.springframework.org/schema/aop/index"/>
+    <system systemId="http://cxf.apache.org/" uri="cxf.apache.org/index"/>
+    <system systemId="http://cxf.apache.org/jaxrs" uri="cxf.apache.org/schemas/jaxrs.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas" uri="cxf.apache.org/schemas/index"/>
+    <system systemId="http://cxf.apache.org/schemas/jaxrs.xsd" uri="cxf.apache.org/schemas/jaxrs.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas/jaxrs-common.xsd" uri="cxf.apache.org/schemas/jaxrs-common.xsd"/>
+    <system systemId="http://cxf.apache.org/core" uri="cxf.apache.org/schemas/core.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas/core.xsd" uri="cxf.apache.org/schemas/core.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas/" uri="cxf.apache.org/schemas/index"/>
+    <system systemId="http://cxf.apache.org/schemas/core" uri="cxf.apache.org/schemas/core.xsd"/>
+    <system systemId="http://www.springframework.org/schema/beans/spring-beans.xsd" uri="www.springframework.org/schema/beans/spring-beans.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" uri="cxf.apache.org/schemas/configuration/cxf-beans.xsd"/>
+    <system systemId="http://cxf.apache.org/schemas/configuration/parameterized-types.xsd" uri="cxf.apache.org/schemas/configuration/parameterized-types.xsd"/>
+</catalog>

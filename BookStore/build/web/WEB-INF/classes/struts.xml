@@ -1,0 +1,109 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <constant name="struts.i18n.encoding" value="utf-8"></constant>
+    <!-- WebSocket Port -->
+    <constant name="struts.action.excludePattern" value="/chat"></constant>
+    <package name="default" extends="json-default">
+        
+    <!-- User Action -->
+        <!-- User Register -->
+        <action name="User_Register" class="UserAction" method="User_Register">
+            <result name="success">/index.jsp</result>
+            <result name="error">/WEB-INF/User/User_Register.jsp</result>
+        </action>
+        <!-- User Login -->
+        <action name="User_Login" class="UserAction" method="User_Login">
+            <result name="success">/index.jsp</result>
+            <result name="nouser">/WEB-INF/User/User_Login.jsp</result>
+            <result name="error">/WEB-INF/User/User_Login.jsp</result>
+        </action>
+        <!-- Jump Table -->
+        <action name="Jump_To_User_Login" class="UserAction" method="Jump_To_User_Login">
+            <result name="success">/WEB-INF/User/User_Login.jsp</result>
+        </action>
+        <action name="Jump_To_User_Register" class="UserAction" method="Jump_To_User_Register">
+            <result name="success">/WEB-INF/User/User_Register.jsp</result>
+        </action>
+        <action name="Jump_To_User_Center" class="UserAction" method="Jump_To_User_Center">
+            <result name="success">/WEB-INF/User/User_Center.jsp</result>
+        </action>
+        <action name="Jump_To_Chatting_Room" class="UserAction" method="Jump_To_Chatting_Room">
+            <result name="success">/Chatting_Room.jsp</result>
+        </action>
+        
+    <!-- Manager Action-->
+        <!-- Add User -->
+        <action name="Add_User" class="ManagerAction" method="Add_User">
+            <result name="success">/Manager/User_Affair.jsp</result>
+            <result name="error">/Manager/User_Affair.jsp</result>
+        </action>
+        <!-- User Update -->
+        <action name="User_Update" class="ManagerAction" method="User_Update">
+            <result name="success">/Manager/User_Affair.jsp</result>
+            <result name="error">/Manager/User_Affair.jsp</result>
+        </action>
+        <!-- User Delete -->
+        <action name="User_Delete" class="ManagerAction" method="User_Delete">
+            <result name="success">/Manager/User_Affair.jsp</result>
+            <result name="error">/Manager/User_Affair.jsp</result>
+        </action>
+        <!-- Jump Table -->
+        <action name="Jump_To_User_Update" class="ManagerAction" method="Jump_To_User_Update">
+            <result name="success">/Manager/User_Affair.jsp</result>
+            <result name="error">/Manager/User_Affair.jsp</result>
+        </action>
+        
+    <!-- Book Action -->
+        <!-- Search Books WebService -->
+        
+        <action name="Search_Book_WebService" class="BookAction" method="Search_Book_WebService">
+            <result name="success">/Manager/Book_Affair.jsp</result>
+        </action>
+        <!-- Search Books -->
+        
+        <action name="Search_Book" class="BookAction" method="Search_Book">
+            <result name="success">/WEB-INF/BookStore/Book_Search.jsp</result>
+        </action>
+        <!-- Add Books -->
+        
+        <action name="Add_Book" class="BookAction" method="Add_Book">
+            <result name="success">/Manager/Book_Affair.jsp</result>
+        </action>
+        <!-- Add Book To ShoppingCart -->
+        
+        <action name="Add_Book_To_ShoppingCart" class="BookAction" method="Add_Book_To_ShoppingCart"/>
+        <!-- Set Order -->
+        
+        <action name="setOrder" class="BookAction" method="setOrder">
+            <result name="success">/WEB-INF/BookStore/Book_Search.jsp</result>
+        </action>
+        <!-- Pay Books -->
+        
+        <action name="Pay_Books" class="BookAction" method="Pay_Books">
+            <result name="success">/WEB-INF/BookStore/Book_Search.jsp</result>
+        </action>
+        <!-- Show Book Details -->
+        
+        <action name="Show_Detail" class="BookAction" method="Show_Detail"/>
+        <!-- Jump Table -->
+        <action name="Jump_To_BookStore" class="BookAction" method="Jump_To_BookStore">
+            <result name="success">/WEB-INF/BookStore/Book_Search.jsp</result>
+            <result name="login">/WEB-INF/User/User_Login.jsp</result>
+        </action>
+        <action name="Jump_To_ShoppingCart" class="BookAction" method="Jump_To_ShoppingCart">
+            <result name="success">/WEB-INF/User/ShoppingCart.jsp</result>
+        </action>
+        <action name="Jump_To_Pay" class="BookAction" method="Jump_To_Pay">
+            <result name="success">/WEB-INF/User/Pay_Books.jsp</result>
+        </action>
+        
+        <!-- Web Service Passport -->
+        <action name="WebService/*">
+            <result>WebService/*</result>
+        </action>
+    </package>
+</struts>

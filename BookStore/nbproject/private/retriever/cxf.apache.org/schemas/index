@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /schemas</title>
+ </head>
+ <body>
+<h1>Index of /schemas</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="XMLSchema.dtd">XMLSchema.dtd</a></td><td align="right">2012-03-05 21:06  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="aegis.xsd">aegis.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">3.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bindings/">bindings/</a></td><td align="right">2015-10-14 17:36  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="blueprint/">blueprint/</a></td><td align="right">2015-10-14 17:36  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="clustering.xsd">clustering.xsd</a></td><td align="right">2012-05-24 13:01  </td><td align="right">3.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="coloc-feature.xsd">coloc-feature.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="configuration/">configuration/</a></td><td align="right">2017-03-23 12:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="core.xsd">core.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">7.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="datatypes.dtd">datatypes.dtd</a></td><td align="right">2012-03-05 21:06  </td><td align="right">6.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jaxrs-client.xsd">jaxrs-client.xsd</a></td><td align="right">2014-05-20 16:15  </td><td align="right">3.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jaxrs-common.xsd">jaxrs-common.xsd</a></td><td align="right">2014-05-20 16:15  </td><td align="right">4.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jaxrs.xsd">jaxrs.xsd</a></td><td align="right">2015-07-02 10:17  </td><td align="right">6.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jaxws.xsd">jaxws.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="oasis-200401-wss-wssecurity-secext-1.0.xsd">oasis-200401-wss-wssecurity-secext-1.0.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="oasis-200401-wss-wssecurity-utility-1.0.xsd">oasis-200401-wss-wssecurity-utility-1.0.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">6.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="plugin.xsd">plugin.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">3.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="policy.xsd">policy.xsd</a></td><td align="right">2013-12-18 16:14  </td><td align="right">5.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="simple.xsd">simple.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-addr-conf.xsd">ws-addr-conf.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-addr-metadata.xsd">ws-addr-metadata.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-addr-wsdl.xjb">ws-addr-wsdl.xjb</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-addr-wsdl.xsd">ws-addr-wsdl.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-policy-200409.xjb">ws-policy-200409.xjb</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-policy-200409.xsd">ws-policy-200409.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">5.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-policy-200607.xjb">ws-policy-200607.xjb</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-policy-200607.xsd">ws-policy-200607.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">4.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-policy-200702.xjb">ws-policy-200702.xjb</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-policy-200702.xsd">ws-policy-200702.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">4.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-security-policy.xjb">ws-security-policy.xjb</a></td><td align="right">2012-04-23 19:40  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ws-security-policy.xsd">ws-security-policy.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right"> 34K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="wsdl/">wsdl/</a></td><td align="right">2015-10-14 17:36  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="xml.xsd">xml.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right">5.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="xmldsig-core-schema.xsd">xmldsig-core-schema.xsd</a></td><td align="right">2012-04-23 19:40  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>

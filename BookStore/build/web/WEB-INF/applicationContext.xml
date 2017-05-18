@@ -166,7 +166,6 @@
         <property name="destination" ref="queueDestination"/>
         <property name="messageListener" ref="jmsReceiveListener"/>
     </bean>
-    
     <!-- Web Service -->
     <bean id="IWebService" class="WebApp.WebService.webservice">
         <property name="service" ref="BookService"/>

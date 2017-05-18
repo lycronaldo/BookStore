@@ -7,8 +7,6 @@ package Component.JMS;
 
 import WebApp.Entity.Salestatics.Salestatics;
 import WebApp.Service.BookService;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.jms.JMSException;
 import javax.jms.Message;
 import javax.jms.MessageListener;
